@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Sun, Moon, Menu, X, Dog, Camera, MapPin } from 'lucide-react';
+import { Menu, X, Dog, Camera, MapPin } from 'lucide-react';
 
 // Main App Component - This is the root of our application.
 // In TypeScript, we use React.FC (Functional Component) to type our component.
